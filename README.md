@@ -4,7 +4,7 @@
 
 ### Usage
 
-![](https://img.shields.io/npm/v/@jimengio/meson-form.svg?style=flat-square)
+![](https://img.shields.io/npm/v/@jimengio/flex-styles.svg?style=flat-square)
 
 ```bash
 yarn add @jimengio/flex-layouts
