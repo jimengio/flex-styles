@@ -1,0 +1,4 @@
+.git*
+.prettierrc
+tsconfig.json
+yarn.lock
