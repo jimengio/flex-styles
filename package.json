@@ -1,6 +1,6 @@
 {
   "name": "@jimengio/flex-styles",
-  "version": "0.1.5-a1",
+  "version": "0.1.5",
   "description": "Flexbox related styles for common layouts",
   "main": "./lib/index.js",
   "typings": "./lib/index.d.ts",
