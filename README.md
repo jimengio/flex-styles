@@ -7,7 +7,7 @@
 ![](https://img.shields.io/npm/v/@jimengio/flex-styles.svg?style=flat-square)
 
 ```bash
-yarn add @jimengio/flex-layouts
+yarn add @jimengio/flex-styles
 ```
 
 Layout styles:
