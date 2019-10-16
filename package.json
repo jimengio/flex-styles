@@ -1,6 +1,6 @@
 {
   "name": "@jimengio/flex-styles",
-  "version": "0.1.5",
+  "version": "0.1.6-a1",
   "description": "Flexbox related styles for common layouts",
   "main": "./lib/index.js",
   "typings": "./lib/index.d.ts",
@@ -24,11 +24,14 @@
   },
   "homepage": "https://github.com/jimengio/flex-styles#readme",
   "devDependencies": {
+    "@types/react": "^16.9.7",
     "emotion": "^10.0.17",
+    "react": "^16.10.2",
     "typescript": "^3.6.3"
   },
   "peerDependencies": {
-    "emotion": "*"
+    "emotion": "*",
+    "react": "*"
   },
   "dependencies": {}
 }
