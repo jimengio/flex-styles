@@ -49,6 +49,17 @@ verticalAlignBottom;
 xHiddenYAuto;
 ```
 
+Also a `Space` component for fixing layout:
+
+```tsx
+import { Space } from "@jimengio/flex-styles"
+
+<Space width={8} />
+
+// or
+<Space height={8} />
+```
+
 ### License
 
 MIT
