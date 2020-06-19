@@ -24,10 +24,10 @@
   },
   "homepage": "https://github.com/jimengio/flex-styles#readme",
   "devDependencies": {
-    "@types/react": "^16.9.7",
-    "emotion": "^10.0.17",
-    "react": "^16.10.2",
-    "typescript": "^3.6.3"
+    "@types/react": "^16.9.38",
+    "emotion": "^10.0.27",
+    "react": "^16.13.1",
+    "typescript": "^3.9.5"
   },
   "peerDependencies": {
     "emotion": "*",
