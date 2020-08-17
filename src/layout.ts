@@ -66,9 +66,6 @@ export const expand = css`
   overflow: auto;
 `;
 
-// alias of flex
-export const flex = expand;
-
 export const displayFlex = css`
   display: flex;
 `;
